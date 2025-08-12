@@ -1,0 +1,92 @@
+2025-07-20 22:36:03,860 - __main__ - DEBUG - Tool 'retrieve' routed to 'grade_documents' (retrieval tool)
+2025-07-20 22:36:03,867 - __main__ - DEBUG - Tool 'multiply' routed to 'generate' (non-retrieval tool)
+2025-07-20 22:36:03,867 - __main__ - INFO - Initialized ToolConfig with tools: {'multiply', 'retrieve'}, routing: {'retrieve': 'grade_documents', 'multiply': 'generate'}
+2025-07-20 22:36:03,869 - __main__ - INFO - Database connection pool initialized
+2025-07-20 22:36:03,870 - __main__ - DEBUG - Database connection pool initialized
+2025-07-20 22:36:03,871 - __main__ - INFO - Connection db_connection_pool status: 0/20 connections in use
+2025-07-20 22:36:13,885 - __main__ - ERROR - Failed to verify connection db_connection_pool status: couldn't get a connection after 10.00 sec
+2025-07-20 22:36:13,892 - __main__ - ERROR - Graph creation failed: 无法验证连接池状态: couldn't get a connection after 10.00 sec
+2025-07-20 22:36:13,894 - __main__ - INFO - Database connection pool closed
+2025-07-21 13:47:03,103 - __main__ - DEBUG - Tool 'retrieve' routed to 'grade_documents' (retrieval tool)
+2025-07-21 13:47:03,109 - __main__ - DEBUG - Tool 'multiply' routed to 'generate' (non-retrieval tool)
+2025-07-21 13:47:03,111 - __main__ - INFO - Initialized ToolConfig with tools: {'retrieve', 'multiply'}, routing: {'retrieve': 'grade_documents', 'multiply': 'generate'}
+2025-07-21 13:47:03,112 - __main__ - INFO - Database connection pool initialized
+2025-07-21 13:47:03,113 - __main__ - DEBUG - Database connection pool initialized
+2025-07-21 13:47:03,114 - __main__ - INFO - Connection db_connection_pool status: 0/20 connections in use
+2025-07-21 13:47:13,129 - __main__ - ERROR - Failed to verify connection db_connection_pool status: couldn't get a connection after 10.00 sec
+2025-07-21 13:47:13,139 - __main__ - ERROR - Graph creation failed: 无法验证连接池状态: couldn't get a connection after 10.00 sec
+2025-07-21 13:47:13,142 - __main__ - INFO - Database connection pool closed
+2025-07-21 13:52:57,391 - __main__ - DEBUG - Tool 'retrieve' routed to 'grade_documents' (retrieval tool)
+2025-07-21 13:52:57,395 - __main__ - DEBUG - Tool 'multiply' routed to 'generate' (non-retrieval tool)
+2025-07-21 13:52:57,395 - __main__ - INFO - Initialized ToolConfig with tools: {'retrieve', 'multiply'}, routing: {'retrieve': 'grade_documents', 'multiply': 'generate'}
+2025-07-21 13:52:57,397 - __main__ - INFO - Database connection pool initialized
+2025-07-21 13:52:57,398 - __main__ - DEBUG - Database connection pool initialized
+2025-07-21 13:52:57,399 - __main__ - INFO - Connection db_connection_pool status: 0/20 connections in use
+2025-07-21 13:52:57,438 - __main__ - INFO - Connection db_connection_pool status: OK, test connection successful
+2025-07-21 13:53:00,381 - __main__ - INFO - Graph visualization saved as graph.png
+2025-07-21 13:53:14,030 - __main__ - INFO - Agent processing user query
+2025-07-21 13:53:14,031 - __main__ - INFO - agent question:content='你好，我是聚客AI学院Kevin' additional_kwargs={} response_metadata={} id='f0d4a890-ae35-4a44-a663-17c058211cdc'
+2025-07-21 13:53:14,425 - __main__ - INFO - Loading and caching prompt template from prompts/prompt_template_agent.txt
+2025-07-21 13:53:16,761 - __main__ - ERROR - Error processing response: Object of type AIMessage is not JSON serializable
+2025-07-21 13:53:57,399 - __main__ - INFO - Connection db_connection_pool status: 0/20 connections in use
+2025-07-21 13:54:57,398 - __main__ - INFO - Connection db_connection_pool status: 0/20 connections in use
+2025-07-21 13:55:57,399 - __main__ - INFO - Connection db_connection_pool status: 0/20 connections in use
+2025-07-21 13:56:57,398 - __main__ - INFO - Connection db_connection_pool status: 0/20 connections in use
+2025-07-21 13:57:57,397 - __main__ - INFO - Connection db_connection_pool status: 0/20 connections in use
+2025-07-21 13:58:53,790 - __main__ - INFO - Database connection pool closed
+2025-07-21 13:59:58,358 - __main__ - DEBUG - Tool 'retrieve' routed to 'grade_documents' (retrieval tool)
+2025-07-21 13:59:58,362 - __main__ - DEBUG - Tool 'multiply' routed to 'generate' (non-retrieval tool)
+2025-07-21 13:59:58,362 - __main__ - INFO - Initialized ToolConfig with tools: {'retrieve', 'multiply'}, routing: {'retrieve': 'grade_documents', 'multiply': 'generate'}
+2025-07-21 13:59:58,364 - __main__ - INFO - Database connection pool initialized
+2025-07-21 13:59:58,366 - __main__ - DEBUG - Database connection pool initialized
+2025-07-21 13:59:58,367 - __main__ - INFO - Connection db_connection_pool status: 0/20 connections in use
+2025-07-21 13:59:58,385 - __main__ - INFO - Connection db_connection_pool status: OK, test connection successful
+2025-07-21 13:59:59,085 - __main__ - INFO - Graph visualization saved as graph.png
+2025-07-21 14:00:11,781 - __main__ - INFO - Agent processing user query
+2025-07-21 14:00:11,785 - __main__ - INFO - agent question:content='你好，我是聚客AI学院Kevin' additional_kwargs={} response_metadata={} id='ba649377-8e02-40a4-8d58-2b7d5d15a743'
+2025-07-21 14:00:12,158 - __main__ - INFO - Loading and caching prompt template from prompts/prompt_template_agent.txt
+2025-07-21 14:00:14,020 - __main__ - ERROR - Error processing response: Object of type AIMessage is not JSON serializable
+2025-07-21 14:00:58,370 - __main__ - INFO - Connection db_connection_pool status: 0/20 connections in use
+2025-07-21 14:01:58,371 - __main__ - INFO - Connection db_connection_pool status: 0/20 connections in use
+2025-07-21 14:02:58,374 - __main__ - INFO - Connection db_connection_pool status: 0/20 connections in use
+2025-07-21 14:03:58,373 - __main__ - INFO - Connection db_connection_pool status: 0/20 connections in use
+2025-07-21 14:04:58,374 - __main__ - INFO - Connection db_connection_pool status: 0/20 connections in use
+2025-07-21 14:05:58,375 - __main__ - INFO - Connection db_connection_pool status: 0/20 connections in use
+2025-07-21 14:06:19,900 - __main__ - INFO - Database connection pool closed
+2025-07-21 14:06:27,289 - __main__ - DEBUG - Tool 'retrieve' routed to 'grade_documents' (retrieval tool)
+2025-07-21 14:06:27,293 - __main__ - DEBUG - Tool 'multiply' routed to 'generate' (non-retrieval tool)
+2025-07-21 14:06:27,293 - __main__ - INFO - Initialized ToolConfig with tools: {'retrieve', 'multiply'}, routing: {'retrieve': 'grade_documents', 'multiply': 'generate'}
+2025-07-21 14:06:27,294 - __main__ - INFO - Database connection pool initialized
+2025-07-21 14:06:27,296 - __main__ - DEBUG - Database connection pool initialized
+2025-07-21 14:06:27,296 - __main__ - INFO - Connection db_connection_pool status: 0/20 connections in use
+2025-07-21 14:06:27,316 - __main__ - INFO - Connection db_connection_pool status: OK, test connection successful
+2025-07-21 14:06:27,778 - __main__ - INFO - Graph visualization saved as graph.png
+2025-07-21 14:06:34,135 - __main__ - INFO - Agent processing user query
+2025-07-21 14:06:34,135 - __main__ - INFO - agent question:content='你好' additional_kwargs={} response_metadata={} id='e3e3f4f6-6863-4b24-ab50-2813949a9035'
+2025-07-21 14:06:34,476 - __main__ - INFO - Loading and caching prompt template from prompts/prompt_template_agent.txt
+2025-07-21 14:06:37,396 - __main__ - ERROR - Error processing response: Object of type AIMessage is not JSON serializable
+2025-07-21 14:07:27,297 - __main__ - INFO - Connection db_connection_pool status: 0/20 connections in use
+2025-07-21 14:08:27,297 - __main__ - INFO - Connection db_connection_pool status: 0/20 connections in use
+2025-07-21 14:09:27,297 - __main__ - INFO - Connection db_connection_pool status: 0/20 connections in use
+2025-07-21 14:10:27,297 - __main__ - INFO - Connection db_connection_pool status: 0/20 connections in use
+2025-07-21 14:11:27,299 - __main__ - INFO - Connection db_connection_pool status: 0/20 connections in use
+2025-07-21 14:12:06,485 - __main__ - INFO - Database connection pool closed
+2025-08-11 21:40:56,363 - __main__ - DEBUG - Tool 'retrieve' routed to 'grade_documents' (retrieval tool)
+2025-08-11 21:40:56,375 - __main__ - DEBUG - Tool 'multiply' routed to 'generate' (non-retrieval tool)
+2025-08-11 21:40:56,376 - __main__ - INFO - Initialized ToolConfig with tools: {'retrieve', 'multiply'}, routing: {'retrieve': 'grade_documents', 'multiply': 'generate'}
+2025-08-11 21:40:56,379 - __main__ - INFO - Database connection pool initialized
+2025-08-11 21:40:56,381 - __main__ - DEBUG - Database connection pool initialized
+2025-08-11 21:40:56,382 - __main__ - INFO - Connection db_connection_pool status: 0/20 connections in use
+2025-08-11 21:40:57,302 - __main__ - INFO - Connection db_connection_pool status: OK, test connection successful
+2025-08-11 21:41:56,385 - __main__ - INFO - Connection db_connection_pool status: 0/20 connections in use
+2025-08-11 21:42:28,011 - __main__ - INFO - Database connection pool closed
+2025-08-11 21:44:29,923 - __main__ - DEBUG - Tool 'retrieve' routed to 'grade_documents' (retrieval tool)
+2025-08-11 21:44:29,927 - __main__ - DEBUG - Tool 'multiply' routed to 'generate' (non-retrieval tool)
+2025-08-11 21:44:29,928 - __main__ - INFO - Initialized ToolConfig with tools: {'multiply', 'retrieve'}, routing: {'retrieve': 'grade_documents', 'multiply': 'generate'}
+2025-08-11 21:44:29,929 - __main__ - INFO - Database connection pool initialized
+2025-08-11 21:44:29,930 - __main__ - DEBUG - Database connection pool initialized
+2025-08-11 21:44:29,930 - __main__ - INFO - Connection db_connection_pool status: 0/20 connections in use
+2025-08-11 21:44:29,977 - __main__ - INFO - Connection db_connection_pool status: OK, test connection successful
+2025-08-11 21:45:29,933 - __main__ - INFO - Connection db_connection_pool status: 0/20 connections in use
+2025-08-11 21:46:29,935 - __main__ - INFO - Connection db_connection_pool status: 0/20 connections in use
+2025-08-11 21:46:50,193 - __main__ - INFO - Database connection pool closed
